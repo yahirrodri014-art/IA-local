@@ -1,30 +1,35 @@
-# Saafar Local 1.0 H
+SAFAR 1.0 H – IA Local (En desarrollo)
 
-Asistente local ligero con interfaz limpia, chats en barra lateral, ajustes, version y soporte de voz del navegador.
+Descripción:
+SAFAR es una inteligencia artificial local diseñada para permitir interacción básica con el usuario. Actualmente se encuentra en fase de desarrollo, por lo que sus capacidades son limitadas.
 
-## Como abrirlo
+Características principales:
 
-Opcion recomendada en Windows:
+Interacción simple mediante texto
+Respuestas básicas a comandos específicos
+Posibilidad de futuras mejoras y expansión
 
-1. Haz doble clic en `start-saafar.bat`.
-2. O ejecuta `powershell -ExecutionPolicy Bypass -File .\start-saafar.ps1`.
-3. Se abrira en `http://localhost:4173`.
+Funciones disponibles:
 
-Opcion alternativa si luego instalas Node.js:
+Saludar al usuario
+Indicar la hora
+Informar sobre el creador
 
-1. Abre una terminal en esta carpeta.
-2. Ejecuta `npm start`.
-3. Entra a `http://localhost:4173`.
+Limitaciones:
 
-## Que puede hacer
+No es tan potente como otras inteligencias artificiales actuales
+Funcionalidad muy reducida en esta versión
+Respuestas limitadas a comandos predefinidos
 
-- Responder saludos y frases basicas.
-- Decir que dia es hoy.
-- Decir la hora actual en tu pais o en paises como Honduras, Mexico, Colombia, Espana y otros.
-- Explicar quien lo creo y cual es su version.
-- Guardar chats y ajustes en el navegador.
-- Escuchar por microfono y leer respuestas en voz alta si el navegador lo permite.
+Versión actual:
 
-## Modelo
+SAFAR 1.0 H
+Primer modelo funcional del sistema SAFAR
+Enfocado en pruebas iniciales
 
-`Saafar 1.0 H` usa una base de conocimientos local y reglas simples para responder sin depender de servicios externos.
+Futuro del proyecto:
+No está definido cómo será la versión SAFAR 1.0 HH, pero el objetivo es que incluya:
+
+Mayor capacidad de respuesta
+Mejor comprensión del usuario
+Más funciones e interacción avanzada
