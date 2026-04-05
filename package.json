@@ -1,0 +1,9 @@
+{
+  "name": "saafar-local-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Asistente local Saafar 1.0 H",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
